@@ -1,0 +1,10 @@
+[
+  {
+    "package": "clime",
+    "oncran": true
+  },
+  {
+    "package": "pro",
+    "oncran": true
+  }
+]

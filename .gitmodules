@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clime"]
+	path = clime
+	url = https://github.com/rluo/clime
+	shallow = true
+	registered = true
+[submodule "pro"]
+	path = pro
+	url = https://github.com/rluo/pro
+	shallow = true
+	registered = true
