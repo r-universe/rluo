@@ -8,6 +8,16 @@
 	url = https://github.com/rluo/clime
 	shallow = true
 	registered = true
+[submodule "cord"]
+	path = cord
+	url = https://github.com/cran/cord
+	shallow = true
+	registered = true
+[submodule "lorec"]
+	path = lorec
+	url = https://github.com/cran/lorec
+	shallow = true
+	registered = true
 [submodule "pro"]
 	path = pro
 	url = https://github.com/rluo/pro
