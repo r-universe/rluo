@@ -7,7 +7,7 @@
 	url = https://github.com/rluo/clime
 [submodule "cord"]
 	path = cord
-	url = https://github.com/cran/cord
+	url = https://github.com/rluo/cord
 [submodule "lorec"]
 	path = lorec
 	url = https://github.com/cran/lorec
